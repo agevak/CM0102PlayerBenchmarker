@@ -17,6 +17,7 @@ The faster your CPU, the faster you will get your tests done. Ryzen 9 makes 100 
 1. Run the PlayerBenchmarker.exe.
 2. Click "Load CM save file". If there is only 1 .sav file in CM folder, the program loads that. Otherwise, it asks user to select a file.
 3. Modify attributes as you wish, and don't forget to click "Save CM save file" afterward.
+<img src="Images/Screenshot.png"/>
 4. Enter a unique test name for each test.
 5. Enter runs count (amount of seasons to play; bigger the value, the higher is precision, but takes longer time).
 6. Enter amount of concurrent runs (as a rule of thumb: amount of cores of your CPU is a good choice).
